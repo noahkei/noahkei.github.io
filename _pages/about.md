@@ -17,6 +17,6 @@ My master's thesis examines how diasporic organizers interacts with data practic
 
 I am also excited to be joining the [Just Sustainability Design Lab](https://justsustainabilitydesign.org/) to work with Professor [Christoph Becker](https://www.christoph-becker.info/) in the coming academic year.  
 
-My academic background includes a Master of Information - Data Science and Information Systems from the University of Toronto, and a Bachelor of Business Administration - Management Sciences from the City University of Hong Kong. Prior to graduate school, I worked in various banks, stock exchange, Bloomberg, telecoms, semiconductors, and volunteered for pro-bono consulting, fundraising, and teaching disadvantaged students English.
+My academic background includes a Master of Information - Data Science and Information Systems from the University of Toronto, and a Bachelor of Business Administration - Management Sciences from the City University of Hong Kong. Prior to graduate school, I worked in various sectors ranging from banks, stock exchange, Bloomberg, telecom, semiconductor, and volunteered mostly for pro-bono consulting, fundraising, and teaching disadvantaged students English.
 
 Thank you for taking the time to learn about me. I hope you are staying well. If you have any questions or if there’s anything I can assist you with, please do not hesitate to reach out!
