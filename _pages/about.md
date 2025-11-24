@@ -15,7 +15,7 @@ I am very fortunate to be advised by Professor [Vera Khovanskaya](https://verakh
 
 My master's thesis examines how diasporic organizers interacts with data practices, focusing on management of privacy, organized norms, and strategic coordination that occurs beyond the designed affordances of digital platforms. The diasporic Hong Kong project is an empirical study being prepared for submission at two venues, one on conceptualizing digital safety and risk to [ACM Computer Supported Cooperative Work (CSCW)]([https://link.springer.com/journal/10606](https://dl.acm.org/conference/cscw)) 2026 - accepted with minor revision, and the other on digital identity construction to [The Information Society(TIS)]([[https://academic.oup.com/JOC?login=true](https://www.tandfonline.com/journals/rics20)](https://www.tandfonline.com/journals/utis20)). 
 
-I am also excited to be joining the [Just Sustainability Design Lab](https://justsustainabilitydesign.org/) to work with Professor [Christoph Becker](https://www.christoph-becker.info/) in the coming academic year.  
+I am also excited to be part of the surveillance capitalism project led by Nils Bonfils under supervision of Professor [Christoph Becker](https://www.christoph-becker.info/).  
 
 My academic background includes a Master of Information - Data Science and Information Systems from the University of Toronto, and a Bachelor of Business Administration - Management Sciences from the City University of Hong Kong. Prior to graduate school, I worked in various sectors ranging from banks, stock exchange, Bloomberg, telecom, semiconductor, and volunteered mostly for pro-bono consulting, fundraising, and teaching disadvantaged students English.
 
