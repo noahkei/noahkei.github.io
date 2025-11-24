@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! Welcome to Marco Chan's website! I am a final year master's students at the [Faculty of Information](https://ischool.utoronto.ca/), University of Toronto. 
+Hello! Welcome to Noah Kei's website! I am a MI graduate (HCDS & ISD) at the [Faculty of Information](https://ischool.utoronto.ca/), University of Toronto. 
 
 My research interest focuses on technologies that bolster our increasingly fragile democracies. From designing community-based sociotechnical system, combatting against misinformation, to exploring alternative economies that sustain democratic structures, I am dedicated to creating effective social technologies and sociotechnical practices in risk management that addresses collective vulnerablities and promotes sustainability in democratic socities. 
 
