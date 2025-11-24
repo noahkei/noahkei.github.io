@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Marco Chan"
+title                    : "Noah Kei"
 title_separator          : "-"
-name                     : &name "Marco Chan"
-description              : &description "I am a second-year master student in the Faculty of Information, Unniversity of Toronto"
-url                      : https://marco-prospectivephd.github.io/home # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Noah Kei"
+description              : &description "I am a master's graduate in the Faculty of Information, Unniversity of Toronto"
+url                      : https://noahkei.github.io/home # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Marco Chan"
+  name             : "Noah Kei"
   pronouns         : "He/Him"  
-  bio              : "Master Student in Information: Human-Centered Data Science & Information Systems Design"
+  bio              : "Master's Graduate in Information: Human-Centered Data Science & Information Systems Design"
   location         : "Toronto, Ontario"
   employer         : "University of Toronto"
   uri              : # URL
-  email            : "marcokk.chan@mail.utoronto.ca" 
+  email            : "kei.noah@proton.me" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "Marco-ProspectivePhD"
+  github           : "noahkei"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
