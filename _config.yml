@@ -12,7 +12,7 @@ title                    : "Noah Kei"
 title_separator          : "-"
 name                     : &name "Noah Kei"
 description              : &description "I am a master's graduate in the Faculty of Information, Unniversity of Toronto"
-url                      : https://noahkei.github.io/home # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://noahkei.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
