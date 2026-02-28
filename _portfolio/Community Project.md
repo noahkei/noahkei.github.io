@@ -6,7 +6,7 @@ excerpt: "Founded the [180 Degrees Consulting CityU Branch](https://hk.linkedin.
 Photo below is our final presentation night where student consultants present their projects to their mentors and non-profit clients.<br>
 
 
-<img src='/home/images/500x300.png'><br>
+<img src='/images/500x300.png'><br>
 
 
 For services at 180 Degrees Consulting, learn more at [www.180dc.org](https://www.180dc.org) or check out our one-pager for clients [here](https://drive.google.com/file/d/1-DkGAV8TzFDyAm4MAERJs18cmmhpO1YH/view?usp=sharing)." 
