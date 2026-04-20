@@ -108,8 +108,6 @@ Skills
 
 Service and leadership
 ======
-*(Service and leadership are temporarily deprioritized due to displacement and PhD Application)*
-
 * Founding President of 180 Degrees Consulting CityU Branch
 * Consultant at 180 Degrees Consulting Copenhagen Branch
 * Member at iSchool Peer Mentoring 
